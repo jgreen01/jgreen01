@@ -1,6 +1,6 @@
 # Hi, I'm Jon Green
 
-Senior software developer building reliable backend and distributed systems, developer tooling, and data-driven applications.
+Senior software developer building reliable backend and distributed systems, engineering tools, and data-driven applications.
 
 - **Website & Writing:** [jgreen.one](https://jgreen.one) *(every page also has a [Markdown twin](https://jgreen.one/llms.txt) for AI agents)*
 
